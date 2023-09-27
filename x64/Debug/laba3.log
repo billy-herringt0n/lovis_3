@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+C:\Download\Student\lovis\laba3\Source2.cpp(95,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba3.vcxproj -> C:\Download\Student\lovis\laba3\x64\Debug\laba3.exe
